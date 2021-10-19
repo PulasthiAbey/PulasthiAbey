@@ -40,7 +40,7 @@
 [![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey&show_icons=true&theme=radical)](https://github.com/PulasthiAbey)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App)](https://github.com/PulasthiAbey/Weather-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App&show_icons=true&theme=dark)](https://github.com/PulasthiAbey/Weather-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/PulasthiAbey/refactored-invention)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=application-blockchain)](https://github.com/PulasthiAbey/application-blockchain)
 
