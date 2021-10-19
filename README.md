@@ -1,6 +1,5 @@
 # Hi there, I'm Pulasthi Aberathne👋
 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/pulasthiabe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/pulasthiabe)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=PulasthiAbe&logo=Instagram&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.instagram.com%2Fpulasthiabe%2F%3Fhl%3Den)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=PulasthiAbe&logo=Facebook&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.facebook.com%2Fpulasthiabe)
@@ -82,7 +81,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="PulasthiAbey's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PulasthiAbey&show_icons=true&hide_border=true" />
 
 </details>
 
