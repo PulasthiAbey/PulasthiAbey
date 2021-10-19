@@ -37,6 +37,11 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -80,13 +85,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <!-- <img align="left" alt="PulasthiAbey's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
   [![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- <img align="left" alt="Pulasthi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PulasthiAbey&show_icons=true&hide_border=true" /> -->
-
-" />
-
 </details>
 
 [website]: https://codeSTACKr.com
