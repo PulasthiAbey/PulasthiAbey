@@ -44,7 +44,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulasthiAby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
