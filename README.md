@@ -37,7 +37,9 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/anuraghazra/github-readme-stats)
+[![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -83,10 +85,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+  
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
