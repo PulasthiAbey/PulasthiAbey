@@ -62,6 +62,11 @@
 
 ### Latest GitHub Activities
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#123](https://github.com/MohmedIkram/Hacktoberfest2021/pull/123) in [MohmedIkram/Hacktoberfest2021](https://github.com/MohmedIkram/Hacktoberfest2021)
+2. 🗣 Commented on [#496](https://github.com/SRDeveloperVishal/hacktoberfest2021/issues/496) in [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
+3. 💪 Opened PR [#496](https://github.com/SRDeveloperVishal/hacktoberfest2021/pull/496) in [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
+4. ❌ Reopened PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❌ Closed PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 ---
 
