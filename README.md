@@ -41,8 +41,8 @@
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App&show_icons=true&theme=dark)](https://github.com/PulasthiAbey/Weather-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/PulasthiAbey/refactored-invention)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=application-blockchain)](https://github.com/PulasthiAbey/application-blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention&show_icons=true&theme=dark)](https://github.com/PulasthiAbey/refactored-invention)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=application-blockchain&show_icons=true&theme=dark)](https://github.com/PulasthiAbey/application-blockchain)
 
 ---
 
