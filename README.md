@@ -1,11 +1,12 @@
 # Hi there, I'm Pulasthi Aberathne👋
 
+<center>
 [![Twitter Follow](https://img.shields.io/twitter/follow/pulasthiabe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/pulasthiabe)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=PulasthiAbe&logo=Instagram&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.instagram.com%2Fpulasthiabe%2F%3Fhl%3Den)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=PulasthiAbe&logo=Facebook&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.facebook.com%2Fpulasthiabe)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=techtheory&logo=YouTube&logoColor=red&style=for-the-badge&up_color=red&up_message=Online&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmm_sWzhKbaUGin3yzI1ILQ)
 ![Website](https://img.shields.io/website?down_color=blue&down_message=Offline&label=Pulasthi%20aberathne&logo=LinkedIn&logoColor=blue&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpulasthi-aberathne-b87979175%2F)
-
+</center>
 ## I'm a FullStack Developer / Instructor
 
 - 🔭 I just launched my first video on YouTube: [BlockChain](https://www.youtube.com/watch?v=kdrdPpAaz8I)!
