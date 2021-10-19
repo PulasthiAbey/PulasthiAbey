@@ -12,7 +12,6 @@
 
 ### Connect with me
 
-
 <!-- [<img align="left" alt="techTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCmm_sWzhKbaUGin3yzI1ILQ)
 [<img align="left" alt="techTheory | YouTube" width="22px" src="https://drive.google.com/file/d/11XvbrW59NuXBpJnV-n2aV56VECDCAuKd/view?usp=sharing" />](https://www.facebook.com/pulasthiabe)
 [<img align="left" alt="techTheory | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -48,7 +47,15 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+<<<<<<< HEAD
 
+=======
+- [Falcon9 Landing sequence from a ground up POV - SpaceX](https://www.youtube.com/watch?v=a54mgKGhf30)
+- [SpaceX Startship BN3 Launch Attempt : Live Stream From LabPadre](https://www.youtube.com/watch?v=RmtW2rMskXc)
+- [SpaceX Starship Landing Attempt after the flip](https://www.youtube.com/watch?v=vNq9vfJnnO4)
+- [Priceless view of the nature from the mountains 🏔](https://www.youtube.com/watch?v=GFCRy5whBe0)
+- [Next level Screens. Subscribe for more.](https://www.youtube.com/watch?v=WgfwJim15pQ)
+>>>>>>> 3024cd2fede8bb4db68a4837feb8fe240dc006d4
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmm_sWzhKbaUGin3yzI1ILQ)
