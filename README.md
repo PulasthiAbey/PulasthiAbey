@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-- [🔴 Vue.js Live 2021 | The Biggest Vue.js Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=mkm-1UDJ2co)
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
+- [Falcon9 Landing sequence from a ground up POV - SpaceX](https://www.youtube.com/watch?v=a54mgKGhf30)
+- [SpaceX Startship BN3 Launch Attempt : Live Stream From LabPadre](https://www.youtube.com/watch?v=RmtW2rMskXc)
+- [SpaceX Starship Landing Attempt after the flip](https://www.youtube.com/watch?v=vNq9vfJnnO4)
+- [Priceless view of the nature from the mountains 🏔](https://www.youtube.com/watch?v=GFCRy5whBe0)
+- [Next level Screens. Subscribe for more.](https://www.youtube.com/watch?v=WgfwJim15pQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
