@@ -37,11 +37,13 @@
 
 ---
 
-[![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
+[![Pulasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulasthiAbey&show_icons=true&theme=radical)](https://github.com/PulasthiAbey)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=Weather-App)](https://github.com/PulasthiAbey/Weather-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=refactored-invention)](https://github.com/PulasthiAbey/refactored-invention)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PulasthiAbey&repo=application-blockchain)](https://github.com/PulasthiAbey/application-blockchain)
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulasthiAbey)](https://github.com/anuraghazra/github-readme-stats)
