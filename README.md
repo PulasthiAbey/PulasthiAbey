@@ -10,8 +10,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me
+![facebook-f](https://user-images.githubusercontent.com/50553343/137938959-5a073db0-0f58-4233-878f-23b12aa6e4bf.png)
 
-[Uploading facebook-f.svg…](FaceBook)
 
 <br/>
 
