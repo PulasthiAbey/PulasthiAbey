@@ -62,11 +62,11 @@
 
 ### Latest GitHub Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NisalC/keystrokes/issues/1) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
-2. 💪 Opened PR [#1](https://github.com/NisalC/keystrokes/pull/1) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
-3. 💪 Opened PR [#123](https://github.com/MohmedIkram/Hacktoberfest2021/pull/123) in [MohmedIkram/Hacktoberfest2021](https://github.com/MohmedIkram/Hacktoberfest2021)
-4. 🗣 Commented on [#496](https://github.com/SRDeveloperVishal/hacktoberfest2021/issues/496) in [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
-5. 💪 Opened PR [#496](https://github.com/SRDeveloperVishal/hacktoberfest2021/pull/496) in [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
+1. 🗣 Commented on [#2](https://github.com/NisalC/keystrokes/issues/2) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+2. 💪 Opened PR [#2](https://github.com/NisalC/keystrokes/pull/2) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+3. 🗣 Commented on [#1](https://github.com/NisalC/keystrokes/issues/1) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+4. 💪 Opened PR [#1](https://github.com/NisalC/keystrokes/pull/1) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+5. 💪 Opened PR [#123](https://github.com/MohmedIkram/Hacktoberfest2021/pull/123) in [MohmedIkram/Hacktoberfest2021](https://github.com/MohmedIkram/Hacktoberfest2021)
 <!--END_SECTION:activity-->
 ---
 
