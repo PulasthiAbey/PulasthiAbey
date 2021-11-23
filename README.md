@@ -62,10 +62,10 @@
 
 ### Latest GitHub Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/NisalC/keystrokes/pull/6) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
-2. 💪 Opened PR [#5](https://github.com/NisalC/keystrokes/pull/5) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
-3. 💪 Opened PR [#4](https://github.com/NisalC/keystrokes/pull/4) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
-4. 🗣 Commented on [#3](https://github.com/NisalC/keystrokes/issues/3) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+1. 💪 Opened PR [#7](https://github.com/NisalC/keystrokes/pull/7) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+2. 💪 Opened PR [#6](https://github.com/NisalC/keystrokes/pull/6) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+3. 💪 Opened PR [#5](https://github.com/NisalC/keystrokes/pull/5) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
+4. 💪 Opened PR [#4](https://github.com/NisalC/keystrokes/pull/4) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
 5. 💪 Opened PR [#3](https://github.com/NisalC/keystrokes/pull/3) in [NisalC/keystrokes](https://github.com/NisalC/keystrokes)
 <!--END_SECTION:activity-->
 ---
